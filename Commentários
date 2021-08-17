@@ -1,0 +1,8 @@
+Olá Yanko,
+
+Achei muito interessante a sua aplicação! Por favor, deixe só mais claro o capítulo de Previsão. Você fez uma validação de 2003-2004, antes da projeção em 2005?
+
+Em Hidrologia, geralmente, utiliza-se 70% da série para treinamento e 30% para validação. Se vc conseguir uma série maior, talvez incluindo os últimos anos, e avaliar para esses intervalos de seleção de treinamento e validação, a sua aplicação ganhará muito mais peso.
+
+Abraços,
+Prof. Alexandre 
